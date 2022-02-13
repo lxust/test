@@ -65,6 +65,7 @@ while (true)
         }
     }
     // Коммент
+    // Коммент 2
     else if ((command == "/login" || command == "/register") && teacher != null)
         Console.WriteLine("Выйдите с аккаунта");
     if (teacher != null)
