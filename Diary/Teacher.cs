@@ -18,12 +18,3 @@ namespace Diary
             Login = login;
         }
         public string? Name;
-        public string? Surname;
-        public string? Subject;
-        public string Password;
-        public string Login;
-        public const string UserType = "teacher";
-
-        public List<Puple> Puples;
-    }
-}
